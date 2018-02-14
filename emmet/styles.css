@@ -1,0 +1,117 @@
+body {
+    background-color: black;
+    color: blue;
+}
+h1 {
+margin: 5px 30px;
+font-size: 30px;
+}
+
+ul {
+list-style-type: none;
+display: inline-block;
+margin: 15px;
+color: white;
+}
+
+li {
+display: inline-block;
+}
+
+nav {
+width: 35%;
+text-align: center;
+margin: 0 auto;
+margin-top: 45p x;
+}
+
+a {
+padding: 15px;
+margin: 20px 100px;
+width: 800px;
+height: 20px;
+border: 2px solid white;
+display: block; margin: auto;
+text-decoration: none;
+background: darkblue;
+}
+
+header img {
+height: 75px;
+width: 100px;
+float: right;
+margin: 5px;
+}
+
+div,
+header,
+footer,
+main {
+border: 2px solid black;
+padding: 1px;
+overflow: auto;
+}
+
+main {
+padding: 5px;
+}
+
+.images {
+
+}
+
+.images img {
+width: 20%;
+height: 120px;
+margin: 10px 2%;
+}
+
+p {
+margin: 15px 30px;
+font-size: 20px;
+}
+
+footer {
+text-align: center;
+font-size: 15px;
+}
+
+.container {
+max-width: 1060px;
+margin: 10px auto;
+min-height: 500px;
+}
+
+.id {
+width: 95%;
+height: auto;
+padding: 15px;
+text-align: center;
+}
+ table {
+        width: 85%;
+        border-spacing: 10 px;
+     margin: 65px;
+     
+    }
+    
+    th {
+        text-align: left;
+    }
+    
+    table,
+    td,
+    th {
+        border: 1px solid white;
+    }
+    
+    td,
+    th {
+        padding: 25px;
+    }
+. ul {
+    text-align: center;
+}
+
+
+
