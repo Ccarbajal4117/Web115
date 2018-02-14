@@ -1,0 +1,129 @@
+body {
+    font-family: arial, helvetica, sans-serif;
+    padding: 0;
+    margin: 0;
+    line-height: 1.5;
+    background-color: slategray;
+}
+
+h1,
+h2 {
+    color: darkblue;
+    text-align: center;
+
+}
+
+h3 {
+    color: blue;
+}
+
+header h1 {
+    color: white;
+}
+
+.container {
+    background: white;
+    max-width: 1060px;
+    margin: 5px auto;
+    border-radius: 5px;
+    padding: 25px;
+    line-height: 1.5;
+}
+
+header {
+    background: darkblue;
+    padding: 10px;
+    margin-bottom: 25px;
+}
+
+nav {
+    text-align: center;
+    padding-bottom: 20px;
+    color: rebeccapurple;
+}
+
+nav a {
+    padding: 5px 10px;
+    font-weight: 600;
+    font-size: 1.1em;
+    border-radius: 5px;
+    text-decoration: none;
+    margin: 15px;
+       color: rebeccapurple;
+    border: 2px solid rebeccapurple;
+   
+}
+
+nav a:hover {
+     color: white;
+    background-color: rebeccapurple;
+    text-decoration: underline;
+}
+
+a {
+    text-decoration: none;
+    font-weight: 600;
+    color: darkblue;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: yellow;
+}
+.text {
+        border: 1px solid black;
+        width: 45%;
+        min-height: 200px;
+        float: right;
+        text-align: center;
+        margin: 2px auto;}
+
+
+
+}
+#home section {
+    float: right;
+    width: 40%;
+    margin: 5px 10%;
+}
+#home article {
+    float: left;
+    width: 65%;
+    margin: 1%;
+}
+section,
+article {
+    width: 90%;
+    margin: 10px auto;
+}
+aside {
+    float: left;
+    width: 25%;
+    margin: 5px 2%;
+    border: 1px solid #B6B6B6;
+    padding: 10px;
+    box-shadow: 0px 0px 15px darkslategrey;
+}
+footer {
+    clear: both;
+    text-align: center;
+    padding: 15px;
+}
+img {
+   margin: 10px auto;
+    display: block; 
+    
+}
+p {
+    color: darkblue;
+   
+}
+.lol {
+width: 78%;
+min-height: 410px;
+margin: 2%;
+float: left;
+border-radius: 5px;
+padding: 0px;
+    
+=
